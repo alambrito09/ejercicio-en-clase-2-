@@ -99,6 +99,7 @@ public class Main {
 
 
     private static void mostrarMenu() {
+        System.out.println("Hola bien venido a menu ");
         System.out.println("Seleccione una opción del 0 al 3:");
         System.out.println("1. Calcular área de un círculo");
         System.out.println("2. Calcular circunferencia de un círculo");
